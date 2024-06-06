@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Slider from './Slider';
+import RGBPanel from './RGBPanel';
 
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
         >
           Personal Website.
         </a>
-        <Slider />
+        <RGBPanel />
       </header>
     </div>
   );

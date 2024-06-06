@@ -1,7 +1,7 @@
 import {useState} from "react";
 
 function Slider({label, onChange}){
-    const [value, setValue] = useState(0);
+    const [value, setValue] = useState(128);
     const handleSliderChange = (e) => {
         setValue(e.target.value);
         if (onChange){
