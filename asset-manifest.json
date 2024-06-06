@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/school-react-app/static/css/main.4b3c9e1d.css",
-    "main.js": "/school-react-app/static/js/main.10ae4c7d.js",
+    "main.js": "/school-react-app/static/js/main.c83523b8.js",
     "static/js/453.96deea8b.chunk.js": "/school-react-app/static/js/453.96deea8b.chunk.js",
     "static/media/logo.svg": "/school-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/school-react-app/index.html",
     "main.4b3c9e1d.css.map": "/school-react-app/static/css/main.4b3c9e1d.css.map",
-    "main.10ae4c7d.js.map": "/school-react-app/static/js/main.10ae4c7d.js.map",
+    "main.c83523b8.js.map": "/school-react-app/static/js/main.c83523b8.js.map",
     "453.96deea8b.chunk.js.map": "/school-react-app/static/js/453.96deea8b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b3c9e1d.css",
-    "static/js/main.10ae4c7d.js"
+    "static/js/main.c83523b8.js"
   ]
 }
