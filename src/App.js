@@ -2,6 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 import RGBPanel from './components/RGB/RGBPanel';
 import Calculator from './components/Calc/Calculator';
+import Board from './components/TTT/Board';
+import TicTacToe from './components/TTT/TicTacToe';
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
         <RGBPanel />
         <p2>計算機</p2>
         <Calculator />
+        <p3>圈圈叉叉</p3>
+        <TicTacToe />
         <a
           className="App-link"
           href="https://shazstar.github.io/"
